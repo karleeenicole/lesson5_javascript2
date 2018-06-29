@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 29, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Karlee Dykes)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project further utilizes understanding of Javascript to develop a calculator for determining tax break based on income and categories.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://karleeenicole.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The Javascript file is linked in the index file through    <script src="Javascript_file).js"></script>
+2. Javascript can be used to turn simpler programs into applications like calculators.
+3. Sometimes functions can be repeated but it takes a close eye to catch any mistakes.
 
